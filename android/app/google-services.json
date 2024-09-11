@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591214974746",
+    "project_id": "geogo-6d821",
+    "storage_bucket": "geogo-6d821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591214974746:android:99d46de66facec54d53ea3",
+        "android_client_info": {
+          "package_name": "com.golabs.geogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591214974746-2b068lk9oic4hqd0aokbblv99d07ci6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbymNwYaaa7jzXMpi0n9CRdBKIYPAxjFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591214974746-2b068lk9oic4hqd0aokbblv99d07ci6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
